@@ -26,4 +26,4 @@ Projects
 --------
 
 
-# `行人识别 <https://github.com/thautwarm/Recognition/tree/master/PedestrianRecognition>`_
+1. `行人识别 <https://github.com/thautwarm/Recognition/tree/master/PedestrianRecognition>`_
