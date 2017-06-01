@@ -19,7 +19,7 @@ some interesting projects might make it easier to show my abilities.
 
   总之，我大一时写Matlab达到的境界，绝大部分数模上的成功人士一辈子也达不到。
   现在虽然不写Matlab了，但是比起大一时强个几百倍还是没问题的。
-  这不影响我是失败人士，过不了数模（这次过不算，实际上不改过的）。
+  这不影响我是失败人士，过不了数模（这次过不算，实际上不该过的）。
 
 
 Projects
