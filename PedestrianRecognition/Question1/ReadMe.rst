@@ -74,10 +74,10 @@
 
 结果如下
 -----
-.. figure:: http://thautsite.duapp.com/gsrcMMq11
-.. figure:: http://thautsite.duapp.com/gsrcMMq1center
-.. figure:: http://thautsite.duapp.com/gsrcMMq12
-.. figure:: http://thautsite.duapp.com/gsrcMMq12center
+.. image:: http://thautsite.duapp.com/gsrcMMq11
+.. image:: http://thautsite.duapp.com/gsrcMMq1center
+.. image:: http://thautsite.duapp.com/gsrcMMq12
+.. image:: http://thautsite.duapp.com/gsrcMMq12center
 
 
 
@@ -87,10 +87,10 @@
 
 和camshift算法效果比较..
 
-.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_1
-.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_2
-.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_3
-.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_4
-.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_5
+.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_1
+.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_2
+.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_3
+.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_4
+.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_5
 
 这是个坑，我查资料+写代码花了好一会儿，最后还是用opencv做的，最新版本的opencv-python文档不全，有问题可以直接issue里问我)
