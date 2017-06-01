@@ -37,7 +37,7 @@ Quote
 
 
 
-`问题2 <https://github.com/thautwarm/Recognition/tree/master/PedestrianRecognition/Question1>`_
+`问题2 <https://github.com/thautwarm/Recognition/tree/master/PedestrianRecognition/Question2>`_
 
 需要识别图中物体的运行轨迹
 

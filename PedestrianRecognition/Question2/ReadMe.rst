@@ -9,9 +9,9 @@
 
 需要识别图中物体的运行轨迹
 
-  .. figure:: ./_static/BMPRing/Ring01.bmp
+  .. figure:: ../_static/BMPRing/Ring01.bmp
 
-  .. figure:: ./_static/BMPRing/Ring02.bmp
+  .. figure:: ../_static/BMPRing/Ring02.bmp
 
 
 问题的分析
