@@ -74,23 +74,23 @@
 
 结果如下
 -----
-.. image:: http://thautsite.duapp.com/gsrcMMq11
-.. image:: http://thautsite.duapp.com/gsrcMMq1center
-.. image:: http://thautsite.duapp.com/gsrcMMq12
-.. image:: http://thautsite.duapp.com/gsrcMMq12center
 
+`圆轨迹 <http://thautsite.duapp.com/gsrcMMq12>`_
 
+`圆心位置预测情况 <http://thautsite.duapp.com/gsrcMMq11center>`_
 
+`菱轨迹 <http://thautsite.duapp.com/gsrcMMq12>`_
+
+`菱形中心预测情况 <http://thautsite.duapp.com/gsrcMMq12center>`_
 
 一些其他的话
 -----
 
 和camshift算法效果比较..
-
-.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_1
-.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_2
-.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_3
-.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_4
-.. image:: http://thautsite.duapp.com/gsrcMMq1Camshift_5
+`camshift_1 <http://thautsite.duapp.com/gsrcMMq1Camshift_1>`_
+`camshift_2 <http://thautsite.duapp.com/gsrcMMq1Camshift_2>`_
+`camshift_3 <http://thautsite.duapp.com/gsrcMMq1Camshift_3>`_
+`camshift_4 <http://thautsite.duapp.com/gsrcMMq1Camshift_4>`_
+`camshift_5 <http://thautsite.duapp.com/gsrcMMq1Camshift_5>`_
 
 这是个坑，我查资料+写代码花了好一会儿，最后还是用opencv做的，最新版本的opencv-python文档不全，有问题可以直接issue里问我)
