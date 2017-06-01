@@ -3,16 +3,6 @@
 =====
 
 
-
-Requirements
------
-
-opencv_python-3.2.0+contrib-cp35-cp35m-win_amd64.whl
-keras (2017-5时期的最新版本，我也不记得了)
-pillow >=1.1
-matplotlib (这个版本随便吧...)
-
-
 目标
 ------
 

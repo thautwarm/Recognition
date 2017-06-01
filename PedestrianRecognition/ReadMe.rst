@@ -13,9 +13,14 @@ Requirements
 
 opencv_python >=3.2.0  +contrib-cp35
 
+keras ==2.0.4
+
 sklearn >=0.19 (include numpy, pandas, scipy in the corresponding versions)
 
 PIL >= 1.1.7
+
+(numpy,pandas,pandas这种该进入标准py包的还用我说嘛？！！)
+
 
 
 
@@ -32,7 +37,7 @@ Quote
 
 
 
-问题2：
+`问题2 <https://github.com/thautwarm/Recognition/tree/master/PedestrianRecognition/Question1>`_
 
 需要识别图中物体的运行轨迹
 
