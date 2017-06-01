@@ -48,7 +48,7 @@
 
     target的确定，我的方法是，通过计算窗口对应的标记矩阵区域的成分比例，给出一个3维向量标签。
     即target = [theta (0) , theta (1) theta (2) ]，
-    记theta 是在窗口对应的标记矩阵区域上的函数，它将种类{0,1,2}中的一个数映到[0,1]区间上的一个数，
+    记theta 是在窗口对应的标记矩阵区域上的函数，它将种类{0,1,2}中的一个映到[0,1]区间上的一个数，
     theta(i) 表示种类i的像素点在区域中所占的比例。
         P.S: 显然，窗口规模要小于圆形物体和菱形物体所在的最小矩形域。
              记窗口为row1 * col1  矩阵 M，
@@ -74,14 +74,12 @@
 
 结果如下
 -----
+.. figure:: http://pan.baidu.com/disk/home#list/vmode=list&path=%2Fgithub_resources%2Fresult%2Fquestion1/q11-center.png
+.. figure:: http://pan.baidu.com/disk/home#list/vmode=list&path=%2Fgithub_resources%2Fresult%2Fquestion1/q11.png
+.. figure:: http://pan.baidu.com/disk/home#list/vmode=list&path=%2Fgithub_resources%2Fresult%2Fquestion1/q12-center.png
+.. figure:: http://pan.baidu.com/disk/home#list/vmode=list&path=%2Fgithub_resources%2Fresult%2Fquestion1/q12.png
 
-.. figure:: ../result/question1/q11-center.png
 
-.. figure:: ../result/question1/q11.png
-
-.. figure:: ../result/question1/q12-center.png
-
-.. figure:: ../result/question1/q12.png
 
 
 一些其他的话
