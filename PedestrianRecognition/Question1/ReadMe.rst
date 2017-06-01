@@ -74,10 +74,10 @@
 
 结果如下
 -----
-.. figure:: http://pan.baidu.com/disk/home#list/vmode=list&path=%2Fgithub_resources%2Fresult%2Fquestion1/q11-center.png
-.. figure:: http://pan.baidu.com/disk/home#list/vmode=list&path=%2Fgithub_resources%2Fresult%2Fquestion1/q11.png
-.. figure:: http://pan.baidu.com/disk/home#list/vmode=list&path=%2Fgithub_resources%2Fresult%2Fquestion1/q12-center.png
-.. figure:: http://pan.baidu.com/disk/home#list/vmode=list&path=%2Fgithub_resources%2Fresult%2Fquestion1/q12.png
+.. figure:: http://thautsite.duapp.com/gsrcMMq11
+.. figure:: http://thautsite.duapp.com/gsrcMMq1center
+.. figure:: http://thautsite.duapp.com/gsrcMMq12
+.. figure:: http://thautsite.duapp.com/gsrcMMq12center
 
 
 
@@ -87,6 +87,10 @@
 
 和camshift算法效果比较..
 
-.. figure:: ../result/question1/camshift
+.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_1
+.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_2
+.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_3
+.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_4
+.. figure:: http://thautsite.duapp.com/gsrcMMq1Camshift_5
 
 这是个坑，我查资料+写代码花了好一会儿，最后还是用opencv做的，最新版本的opencv-python文档不全，有问题可以直接issue里问我)
