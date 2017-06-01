@@ -87,10 +87,15 @@
 -----
 
 和camshift算法效果比较..
+
 `camshift_1 <http://thautsite.duapp.com/gsrcMMq1Camshift_1>`_
+
 `camshift_2 <http://thautsite.duapp.com/gsrcMMq1Camshift_2>`_
+
 `camshift_3 <http://thautsite.duapp.com/gsrcMMq1Camshift_3>`_
+
 `camshift_4 <http://thautsite.duapp.com/gsrcMMq1Camshift_4>`_
+
 `camshift_5 <http://thautsite.duapp.com/gsrcMMq1Camshift_5>`_
 
 这是个坑，我查资料+写代码花了好一会儿，最后还是用opencv做的，最新版本的opencv-python文档不全，有问题可以直接issue里问我)
