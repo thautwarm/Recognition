@@ -71,6 +71,8 @@ opencv解压的根目录下，sources/data路径，有几个装着级联分类�
     (这是高潮！！！这个地方是这道数模题唯一的亮点，然后我成功的利用了一点概率论和代数喵喵喵~
 
     首先要讲一下SIFT特征。
-    这个任务，请交给我们csdn的朋友来讲述。
-    `SIFT特征提取分析 by Rachel-Zhang <http://blog.csdn.net/abcjennifer/article/details/7639681>`_
-    
+    这个任务，请交给我们csdn的朋友来讲述，请看相关链接。
+
+- 相关链接
+
+`SIFT特征提取分析 by Rachel-Zhang <http://blog.csdn.net/abcjennifer/article/details/7639681>`_
