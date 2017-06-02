@@ -69,4 +69,8 @@ opencv解压的根目录下，sources/data路径，有几个装着级联分类�
           取极小值可以保持precision，这是zhui hou的。
   2.比较连续的两张图，进行行人的匹配。
     (这是高潮！！！这个地方是这道数模题唯一的亮点，然后我成功的利用了一点概率论和代数喵喵喵~
-    (再歇会儿
+
+    首先要讲一下SIFT特征。
+    这个任务，请交给我们csdn的朋友来讲述。
+    `SIFT特征提取分析 by Rachel-Zhang <http://blog.csdn.net/abcjennifer/article/details/7639681>`_
+    
