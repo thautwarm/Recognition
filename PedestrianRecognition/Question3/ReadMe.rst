@@ -91,22 +91,25 @@ opencv解压的根目录下，sources/data路径，有几个装着级联分类�
     然后就该本数模题唯一上台面的东西出场了。
 
     剩下的理论部分，我是用latex写的，因为公式一堆。
-    
+    请在相关链接部分查看(不然接下来你什么都看不懂)。
 
+    当你看完pdf后，你应该知道那个可爱的矩阵了。
 
+    我们求出矩阵第i行的最大值和最大值所在的序号j,如果M[i,j]大于一个阈值，则
 
+    我们认为前一张图片里的第i个人，就是后一张图片里的第j个。
 
+    由此，圆满谢幕~
 
+结果数据集
+-----
 
+`所有问题的结果 <http://pan.baidu.com/s/1pKOYsAZ>`
+.. code:: PlainText
 
-
-
-
-
-
-
-
+  点击打开question3文件夹
 
 - 相关链接
 
-`SIFT特征提取分析 by Rachel-Zhang <http://blog.csdn.net/abcjennifer/article/details/7639681>`_
+`SIFT特征提取分析by Rachel-Zhang <http://blog.csdn.net/abcjennifer/article/details/7639681>`_
+`SIFT特征匹配位置特异性得分矩阵by merself <https://github.com/thautwarm/Recognition/blob/master/PedestrianRecognition/Question3/siftmsc.pdf>`
