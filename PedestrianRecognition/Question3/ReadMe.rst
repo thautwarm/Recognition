@@ -104,7 +104,7 @@ opencv解压的根目录下，sources/data路径，有几个装着级联分类�
 结果数据集
 -----
 
-`所有问题的结果 <http://pan.baidu.com/s/1pKOYsAZ>`
+`所有问题的结果 <http://pan.baidu.com/s/1pKOYsAZ>`_
 
 .. code:: PlainText
 
@@ -113,4 +113,5 @@ opencv解压的根目录下，sources/data路径，有几个装着级联分类�
 - 相关链接
 
 `SIFT特征提取分析by Rachel-Zhang <http://blog.csdn.net/abcjennifer/article/details/7639681>`_
-`SIFT特征匹配位置特异性得分矩阵by merself <https://github.com/thautwarm/Recognition/blob/master/PedestrianRecognition/Question3/siftmsc.pdf>`
+
+`SIFT特征匹配位置特异性得分矩阵by merself <https://github.com/thautwarm/Recognition/blob/master/PedestrianRecognition/Question3/siftmsc.pdf>`_
